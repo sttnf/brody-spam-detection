@@ -15,7 +15,6 @@ sample_data/
 # Dataset
 data/
 datasets/
-*.csv
 *.parquet
 !model_comparison.csv
 

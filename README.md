@@ -41,7 +41,7 @@ Aplikasi memproses setiap komentar melalui 4 tahapan:
 
 ## 📊 Dataset, Laporan dan Model
 * **Dataset Utama**: [`dataset/windah.csv`](dataset/windah.csv) (5,000+ data berlabel manual).
-* **Laporan Teknis**: [`docs/reports.docx`](docs/reports.docx) (Detail metodologi & evaluasi).
+* **Laporan Teknis**: [`docs/reports.pdf`](docs/reports.pdf) (Detail metodologi & evaluasi).
 * **Model Assets**: [Hugging Face Files & Models](https://huggingface.co/spaces/rafaalrazzak/spam-detection/tree/main)
 
 ## 🚀 Instalasi Lokal
