@@ -11,11 +11,11 @@ Project ini dikembangkan untuk mengatasi maraknya spam "Judi Online" (Judol) pad
 
 ## 👥 Tim Pengembang (Kelompok Brody)
 | Nama | NIM |
-| :--- | :---: |
-| **Rafa Al Razzak** | 0110224155 |
-| **Muhamad Fadil** | 0110224112 | 
-| **Raffa Yuda Pratama** | 0110224081 |
-| **Aan Adriana** | 0110224014 |
+| :--- | :---: | 
+| **Rafa Al Razzak** | 0110224155 | 
+| **Muhamad Fadil** | 0110224112 |
+| **Raffa Yuda Pratama** | 0110224081 | 
+| **Aan Adriana** | 0110224014 | 
 | **Oryza Ayunda Putri** | 0110224030 |
 
 ## 🤖 Model Intelligence
@@ -39,9 +39,11 @@ Aplikasi memproses setiap komentar melalui 4 tahapan:
 3. **Parallel Prediction**: Seluruh model memberikan probabilitas secara simultan.
 4. **Majority Voting**: Keputusan akhir diambil berdasarkan kesepakatan mayoritas model.
 
-## 📊 Dataset, Laporan dan Model
+## 📊 Dataset, Notebook, & Dokumentasi
+Seluruh aset riset dan pengembangan dapat ditemukan pada folder berikut:
 * **Dataset Utama**: [`dataset/windah.csv`](dataset/windah.csv) (5,000+ data berlabel manual).
-* **Laporan Teknis**: [`docs/reports.pdf`](docs/reports.pdf) (Detail metodologi & evaluasi).
+* **Jupyter Notebook**: [`notebooks/main.ipynb`](notebooks/main.ipynb) (Proses training & evaluasi model).
+* **Laporan Teknis**: [`docs/reports.docx`](docs/reports.docx) (Analisis mendalam & metodologi).
 * **Model Assets**: [Hugging Face Files & Models](https://huggingface.co/spaces/rafaalrazzak/spam-detection/tree/main)
 
 ## 🚀 Instalasi Lokal
