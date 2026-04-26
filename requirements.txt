@@ -1,0 +1,11 @@
+gradio
+pandas
+numpy
+scikit-learn==1.6.1
+xgboost
+lightgbm
+torch
+transformers
+joblib
+nltk
+gensim

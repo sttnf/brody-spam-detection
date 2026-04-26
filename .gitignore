@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.config/
+
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+sample_data/
+
+# Dataset
+data/
+datasets/
+*.csv
+*.parquet
+!model_comparison.csv
+
+# HF Cache
+.cache/
+
+# Secrets
+.env
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Temp
+tmp/
+spam_results.csv
+
+# Gradio
+.gradio
